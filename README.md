@@ -2,7 +2,7 @@
 ## This repository contains the Streamlit frontend UI for interacting with an AI chatbot powered by a FastAPI backend.
 ## It connects to a backend server (hosted separately) and provides a beautiful chat interface with system prompts, model selection, and web search options.
 
--- 
+--- 
 
 ## 🚀 Features
 - Interactive chatbot with conversation history.
@@ -35,7 +35,7 @@
 
 ## 🌐 Backend API URL
 - This frontend connects to:
-🔗 https://ai-agent-backend-uzhn.onrender.com/chat
+- 🔗[Backend URL]( https://ai-agent-backend-uzhn.onrender.com/chat)
 
 ---
 
