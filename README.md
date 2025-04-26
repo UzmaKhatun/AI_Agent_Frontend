@@ -42,3 +42,9 @@
 ## 📦 Deployment
 - Deploy easily on Render, Hugging Face Spaces, or Streamlit Community Cloud.
 - Just upload the code and point it to your backend URL!
+
+---
+
+## 👨‍💻 Author
+- Made with ❤️ by Uzma Khatun
+- Connect on [LinkedIn](https://www.linkedin.com/in/uzma-khatun-88b990334/)
